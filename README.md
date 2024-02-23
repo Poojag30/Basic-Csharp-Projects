@@ -5,3 +5,5 @@ This repository holds a variety of small C# projects. Each project is an individ
 # Projects Included
 **1. Simple Calculator** : This calculator allows the user to perform multiple calculations in a loop until they choose to exit. It handles basic arithmetic operations (+, -, *, /) and includes 
  error checking for division by zero.
+
+ **2.Temperature Converter** :This program provides a menu to choose between converting Celsius to Fahrenheit or Fahrenheit to Celsius, and then performs the conversion based on the user's choice.
