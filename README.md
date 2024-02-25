@@ -8,4 +8,6 @@ This repository holds a variety of small C# projects. Each project is an individ
 
  **2.Temperature Converter** :This program provides a menu to choose between converting Celsius to Fahrenheit or Fahrenheit to Celsius, and then performs the conversion based on the user's choice.
 
- **3.Currency Converter** : This program converts a given amount in USD to either Euro, British Pound, or Indian Rupee based on the user's choice. 
+ **3.Currency Converter** : This program converts a given amount in USD to either Euro, British Pound, or Indian Rupee based on the user's choice.
+
+ **4.Todo List** : This code provides a basic console-based interface for managing a todo list. It allows users to add tasks to a list and then list all the tasks.
