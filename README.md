@@ -14,6 +14,8 @@ This repository holds a variety of small C# projects. Each project is an individ
 
  **5.BMI Calculator** : This program first prompts the user to enter their weight and height. It then calculates the BMI and displays the result along with an interpretation of the BMI category.
 
+ **6.ATM ConsoleApp** :This is a basic ATM console application in C# that allows users to check their balance, deposit money, withdraw money, and exit the ATM. It prompts the user to enter their PIN, and then presents a menu for selecting different options.
+
 
 
 
