@@ -6,15 +6,15 @@ This repository holds a variety of small C# projects. Each project is an individ
 **1. Simple Calculator** : This programs allows the user to perform multiple calculations in a loop until they choose to exit. It handles basic arithmetic operations (+, -, *, /) and includes 
  error checking for division by zero.
 
- **2.Temperature Converter** :This program provides a menu to choose between converting Celsius to Fahrenheit or Fahrenheit to Celsius, and then performs the conversion based on the user's choice.
+ **2. Temperature Converter** :This program provides a menu to choose between converting Celsius to Fahrenheit or Fahrenheit to Celsius, and then performs the conversion based on the user's choice.
 
- **3.Currency Converter** : This program converts a given amount in USD to either Euro, British Pound, or Indian Rupee based on the user's choice.
+ **3. Currency Converter** : This program converts a given amount in USD to either Euro, British Pound, or Indian Rupee based on the user's choice.
 
- **4.Todo List** : This code provides a basic console-based interface for managing a todo list. It allows users to add tasks to a list and then list all the tasks.
+ **4. Todo List** : This code provides a basic console-based interface for managing a todo list. It allows users to add tasks to a list and then list all the tasks.
 
- **5.BMI Calculator** : This program first prompts the user to enter their weight and height. It then calculates the BMI and displays the result along with an interpretation of the BMI category.
+ **5. BMI Calculator** : This program first prompts the user to enter their weight and height. It then calculates the BMI and displays the result along with an interpretation of the BMI category.
 
- **6.ATM ConsoleApp** :This is a basic ATM console application in C# that allows users to check their balance, deposit money, withdraw money, and exit the ATM. It prompts the user to enter their PIN, and then presents a menu for selecting different options.
+ **6. ATM ConsoleApp** :This is a basic ATM console application in C# that allows users to check their balance, deposit money, withdraw money, and exit the ATM. It prompts the user to enter their PIN, and then presents a menu for selecting different options.
 
 
 
